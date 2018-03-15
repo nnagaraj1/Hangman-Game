@@ -1,0 +1,46 @@
+h1 {
+    color:green;
+    text-align: center;
+    font-family: 'Fredericka the Great', cursive;
+    line-height: 36px;
+    font-size: 45px;
+}
+
+.game {
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    text-align: center;
+    background-color: plum;
+    line-height: 30px;
+    font-size: 36px;
+}
+
+body {
+    font-family: sans-serif;
+    line-height: 30px;
+    font-size: 36px;
+    text-align: center;
+    background-image: url("http://sicklesmarket.com/sites/default/files/images/event/sickles-events-593.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;    
+}
+
+p {
+    font-size: 34px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+#letters {
+   margin: 15px auto;
+   padding: 0;
+   max-width: 900px;
+   text-align: center;
+}
+
+#letters li{
+    float: left;
+    margin: 0 10px 10px 0;
+}
